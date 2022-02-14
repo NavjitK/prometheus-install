@@ -1,1 +1,3 @@
-34.217.16.29
+#!/bin/bash
+chmod +x prometheus.sh
+./prometheus.sh
